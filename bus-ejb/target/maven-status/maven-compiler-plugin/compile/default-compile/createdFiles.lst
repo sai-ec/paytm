@@ -1,0 +1,5 @@
+paytm\data\MemberRepository.class
+paytm\service\MemberRegistration.class
+paytm\data\MemberListProducer.class
+paytm\model\Member.class
+paytm\util\Resources.class
